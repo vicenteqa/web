@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.5.3](https://github.com/trento-project/web/tree/2.4.0/compare/2.5.0...2.5.3) - 2025-07-03
+
+### What's Changed
+
+* No changes
+
+**Full Changelog**: https://github.com/vicenteqa/web/compare/...2.5.3
+
 ## [2.5.0](https://github.com/trento-project/web/tree/2.4.0/compare/2.4.0...2.5.0) - 2025-05-20
 
 ### What's Changed
@@ -230,10 +238,8 @@
 * Bump jaxxstorm/action-install-gh-release from 1.13.0 to 1.14.0 (#3163) @[dependabot[bot]](https://github.com/apps/dependabot)
 * Bump chromatic from 11.18.0 to 11.19.0 in /assets (#3162) @[dependabot[bot]](https://github.com/apps/dependabot)
 * Bump @storybook/preview-api from 8.4.2 to 8.4.6 in /assets (#3168) @[dependabot[bot]](https://github.com/apps/dependabot)
-
 </details>
 **Full Changelog**: https://github.com/trento-project/web/compare/2.4.0...2.5.0
-
 ## [2.4.0](https://github.com/trento-project/web/tree/2.4.0) (2024-11-12)
 
 [Full Changelog](https://github.com/trento-project/web/compare/2.3.2...2.4.0)
@@ -1289,7 +1295,7 @@
 - Bump eslint-plugin-storybook from 0.6.14 to 0.6.15 in /assets [#1912](https://github.com/trento-project/web/pull/1912) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump eslint from 8.50.0 to 8.51.0 in /assets [#1911](https://github.com/trento-project/web/pull/1911) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump chromatic from 7.2.2 to 7.2.3 in /assets [#1910](https://github.com/trento-project/web/pull/1910) ([dependabot[bot]](https://github.com/apps/dependabot))
-- UI updates to _Checks Selection_ pages [#1907](https://github.com/trento-project/web/pull/1907) ([jamie-suse](https://github.com/jamie-suse))
+- UI updates to *Checks Selection* pages [#1907](https://github.com/trento-project/web/pull/1907) ([jamie-suse](https://github.com/jamie-suse))
 - Bump @storybook/react-webpack5 from 7.4.5 to 7.4.6 in /assets [#1904](https://github.com/trento-project/web/pull/1904) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump chromatic from 7.2.0 to 7.2.2 in /assets [#1903](https://github.com/trento-project/web/pull/1903) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @storybook/addon-links from 7.4.5 to 7.4.6 in /assets [#1902](https://github.com/trento-project/web/pull/1902) ([dependabot[bot]](https://github.com/apps/dependabot))
